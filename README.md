@@ -1,8 +1,6 @@
 # Coffee-Table-Book
 
-[Animal Planet Coffee Table Book.pdf](https://github.com/InuriGunathilaka22/Coffee-Table-Book/files/11336790/Animal.Planet.Coffee.Table.Book.pdf)
-
-
+<embed src="https://github.com/InuriGunathilaka22/Coffee-Table-Book/raw/main/Final Coffee Table Book (.PDF File)/Animal Planet Coffee Table Book.pdf" type="application/pdf" />
 
 
 
