@@ -1,7 +1,14 @@
 # Coffee Table Book
 
-Welcome to the Coffee-Table-Book repository! This is a collection of stunning photographs of animals from around the world 🐾☕️📚
+Welcome to the Coffee-Table-Book repository! This is a collection of stunning photographs of animals from around the world and here is my first photoshop 🐾☕️📚
 
+# 🎨 My First Photoshop Work
+
+This is my first attempt at using Photoshop to create an image. It was a challenging but rewarding experience, and I learned a lot about the software and image editing in the process.
+
+## 🧰 Tools Used
+
+- Adobe Photoshop
 
 # :floppy_disk: Download
 To download the book, click the "Download" button or click on this link: Download Animal Planet Coffee Table Book
